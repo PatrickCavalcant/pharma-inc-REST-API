@@ -9,5 +9,5 @@ npm install express<br />
 node app.js<br />
 <br />
 #Instalar o módulo para reiniciar o servidor sempre que houver alteração no código fonte<br />
-npm install -D nodemon<br />
+npm install -g nodemon<br />
 <br />
